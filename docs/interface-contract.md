@@ -19,5 +19,4 @@ Dokumen ini adalah kesepakatan teknis antara Analysis Layer dan Infrastructure &
     - Aksesibilitas: Tim infrastruktur akan memastikan Streamlit dapat diakses melalui browser menggunakan IP/URL publik dari layanan cloud.
 
 Riwayat Revisi:
-
-v1.0 - Penetapan teknologi awal (Python, CSV, Streamlit) dan sumber data.
+    - v1.0 - Penetapan teknologi awal (Python, CSV, Streamlit) dan sumber data.
